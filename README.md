@@ -1,16 +1,22 @@
+# NOTE: I am still working on it and haven't uploaded anything to github yet. I will release the latest build as soon as im done!
+
 # Rule34.xxx Downloader v1.0.3
 
 Used for downloading content from Rule34.xxx using Rule34.xxx's official APIs.
 
+
+I noticed that this App/Project was getting old (3 years as of 6th of June 2021) and not so good/modern looking, so I thought I would kind of start to re-work it and make it look nice/modern and a bit more updated.
+There are still some flaws like in every App/Project. I release every compiled version on Github so you don't have to compile it yourself, incase you do want, see Requirements below
+
+I am still working on improving it a bit and making it look better.
+
 # Requirements
 
 [.NET Framework 4.7.1](https://www.microsoft.com/net/download/dotnet-framework-runtime)
+
 [Visual Studio 2019](https://visualstudio.microsoft.com/vs/)
 
-I noticed that this app was getting very old and not so good looking so I thought i would kind of start to re-work it and make it look nice and a bit more updated
-there are still some flaws like in every app. I release every compiled version on Github so you don't have to compile it yourself, incase you do want, you just need Visual Studio 2019 and .NET Framework 4.7.1.
 
-I am still working on improving it a bit and making it look better.
 
 
 
@@ -34,7 +40,7 @@ Enjoy! :D
 
 
 
-# OLD
+# From old repo
 
 # Rule34.xxx Downloader v1.0.2
 
