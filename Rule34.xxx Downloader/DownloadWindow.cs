@@ -16,15 +16,15 @@ namespace R34Downloader
 
         private void DownloadWindow_Load(object sender, EventArgs e)
         {
-            if (maxPid < 11111)
-            {
+            //if (maxPid < 11111)              everything commented was a limit, which idk why it was here in the first place
+            //{
                 metroTrackBar.Maximum = maxPid;
                 numericUpDown1.Maximum = maxPid;
-            }
-            else
-            {
-                label2.Text = "11111 max ;)";
-            }
+            //}
+            //else
+            //{
+            //    label2.Text = "11111 max ;)";
+            //}
         }
 
         private void CheckBox_CheckedChanged(object sender, EventArgs e)
