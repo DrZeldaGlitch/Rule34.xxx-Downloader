@@ -1,4 +1,4 @@
-# NOTE: I am still working on it and haven't uploaded anything to github yet. I will release the latest build as soon as im done!
+# NOTE: This Project is dead and will not be continued anymore
 
 # Rule34.xxx Downloader v1.0.3
 
